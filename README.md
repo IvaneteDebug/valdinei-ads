@@ -5,7 +5,7 @@
                 <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=valdinei-ads&hide=html&layout=compact&theme=algolia" />
             </td>
             <td>
-                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=valdinei-ads&theme=algolia" />
+                <img width="400px" align="left" src="https://github-readme-stats.vercel.app/api?username=valdinei-ads&theme=algolia&show_icons=true" />
             </td>
         </tr>  
     </table>
